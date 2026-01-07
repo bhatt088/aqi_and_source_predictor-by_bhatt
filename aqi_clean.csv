@@ -1,0 +1,493 @@
+City,Station,Date,PM2.5,PM10,SO2,CO,OZONE,NO2,NH3
+Amaravati,"Secretariat, Amaravati - APPCB",20-11-2023 12:00:00,NA,NA,NA,NA,NA,,
+Anantapur,"Gulzarpet, Anantapur - APPCB",20-11-2023 12:00:00,24,24,7,29,25,23,3
+Chittoor,"Gangineni Cheruvu, Chittoor - APPCB",20-11-2023 12:00:00,19,22,9,4,35,14,2
+Kadapa,"Yerramukkapalli, Kadapa - APPCB",20-11-2023 12:00:00,37,32,2,21,21,30,1
+Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",20-11-2023 12:00:00,44,58,12,24,28,18,3
+Tirupati,"Tirumala, Tirupati - APPCB",20-11-2023 12:00:00,49,41,11,17,29,46,3
+Tirupati,"Vaikuntapuram, Tirupati - APPCB",20-11-2023 12:00:00,31,31,5,48,13,19,3
+Vijayawada,"HB Colony, Vijayawada - APPCB",20-11-2023 12:00:00,50,48,8,18,49,11,4
+Vijayawada,"Kanuru, Vijayawada - APPCB",20-11-2023 12:00:00,42,39,4,47,40,16,1
+Vijayawada,"Rajiv Gandhi Park, Vijayawada - APPCB",20-11-2023 12:00:00,49,45,13,33,54,53,5
+Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",20-11-2023 12:00:00,57,74,12,27,14,26,3
+Byrnihat,"Central Academy for SFS, Byrnihat - PCBA",20-11-2023 12:00:00,271,273,7,68,7,35,3
+Guwahati,"IITG, Guwahati - PCBA",20-11-2023 12:00:00,77,66,10,16,5,2,5
+Guwahati,"LGBI Airport, Guwahati - PCBA",20-11-2023 12:00:00,99,82,2,32,48,6,2
+Guwahati,"Pan Bazaar, Guwahati - PCBA",20-11-2023 12:00:00,89,86,56,36,16,NA,2
+Guwahati,"Railway Colony, Guwahati - PCBA",20-11-2023 12:00:00,114,90,34,37,23,3,
+Nagaon,"Christianpatty, Nagaon - PCBA",20-11-2023 12:00:00,40,112,NA,25,6,18,3
+Nalbari,"Bata Chowk, Nalbari - PCBA",20-11-2023 12:00:00,150,162,13,40,18,44,9
+Silchar,"Tarapur, Silchar - PCBA",20-11-2023 12:00:00,23,40,5,33,,15,1
+Sivasagar,"Girls College, Sivasagar - PCBA",20-11-2023 12:00:00,14,47,6,21,3,15,2
+Araria,"Kharahiya Basti, Araria - BSPCB",20-11-2023 12:00:00,177,141,17,58,8,8,6
+Arrah,"New DM Office, Arrah - BSPCB",20-11-2023 12:00:00,259,171,18,25,13,3,7
+Aurangabad,"Gurdeo Nagar, Aurangabad - BSPCB",20-11-2023 12:00:00,NA,NA,12,64,18,9,1
+Begusarai,"DRCC Anandpur, Begusarai - BSPCB",20-11-2023 12:00:00,310,264,13,31,16,37,4
+Bettiah,"Kamalnath Nagar, Bettiah - BSPCB",20-11-2023 12:00:00,191,194,16,84,,NA,5
+Bhagalpur,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",20-11-2023 12:00:00,137,96,24,38,29,50,5
+Bhagalpur,"Mayaganj, Bhagalpur - BSPCB",20-11-2023 12:00:00,197,155,21,15,13,18,7
+Bihar Sharif,"D M Colony, Bihar Sharif - BSPCB",20-11-2023 12:00:00,41,73,6,30,19,9,2
+Chhapra,"Darshan Nagar, Chhapra - BSPCB",20-11-2023 12:00:00,273,193,51,57,2,20,6
+Gaya,"Collectorate, Gaya - BSPCB",20-11-2023 12:00:00,177,,16,34,57,11,
+Gaya,"Kareemganj, Gaya - BSPCB",20-11-2023 12:00:00,240,175,9,31,32,31,5
+Gaya,"SFTI Kusdihra, Gaya - BSPCB",20-11-2023 12:00:00,55,52,8,50,14,17,5
+Hajipur,"Industrial Area, Hajipur - BSPCB",20-11-2023 12:00:00,94,158,8,52,33,12,4
+Katihar,"Mirchaibari, Katihar - BSPCB",20-11-2023 12:00:00,222,163,21,33,23,34,7
+Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",20-11-2023 12:00:00,138,149,17,12,9,68,9
+Manguraha,"Forest Rest House, Manguraha - BSPCB",20-11-2023 12:00:00,65,75,1,48,20,29,NA
+Motihari,"Gandak Colony, Motihari - BSPCB",20-11-2023 12:00:00,201,145,NA,68,33,102,17
+Munger,"Town Hall, Munger - BSPCB",20-11-2023 12:00:00,49,72,,46,3,19,3
+Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",20-11-2023 12:00:00,240,217,10,70,39,6,8
+Muzaffarpur,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",20-11-2023 12:00:00,272,206,18,44,19,9,2
+Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",20-11-2023 12:00:00,113,,6,42,36,52,
+Patna,"DRM Office Danapur, Patna - BSPCB",20-11-2023 12:00:00,222,175,6,73,19,31,2
+Patna,"Govt. High School Shikarpur, Patna - BSPCB",20-11-2023 12:00:00,NA,NA,NA,NA,NA,NA,NA
+Patna,"IGSC Planetarium Complex, Patna - BSPCB",20-11-2023 12:00:00,140,,3,7,15,19,
+Patna,"Muradpur, Patna - BSPCB",20-11-2023 12:00:00,271,306,13,54,15,34,5
+Patna,"Rajbansi Nagar, Patna - BSPCB",20-11-2023 12:00:00,76,158,26,74,21,45,7
+Patna,"Samanpura, Patna - BSPCB",20-11-2023 12:00:00,263,186,10,70,34,18,9
+Purnia,"Mariam Nagar, Purnia - BSPCB",20-11-2023 12:00:00,NA,NA,NA,NA,NA,NA,NA
+Rajgir,"Dangi Tola, Rajgir - BSPCB",20-11-2023 12:00:00,179,120,4,10,23,8,1
+Saharsa,"Police Line, Saharsa - BSPCB",20-11-2023 12:00:00,219,153,2,15,20,7,9
+Samastipur,"DM Office_Kasipur, Samastipur - BSPCB",20-11-2023 12:00:00,169,92,16,35,8,4,3
+Sasaram,"Dada Peer, Sasaram - BSPCB",20-11-2023 12:00:00,59,62,NA,29,4,13,5
+Siwan,"Chitragupta Nagar, Siwan - BSPCB",20-11-2023 12:00:00,NA,NA,22,130,35,75,7
+Chandigarh,"Sector 22, Chandigarh - CPCC",20-11-2023 12:00:00,107,134,13,31,30,58,5
+Chandigarh,"Sector-25, Chandigarh - CPCC",20-11-2023 12:00:00,112,120,10,39,5,16,16
+Chandigarh,"Sector-53, Chandigarh - CPCC",20-11-2023 12:00:00,132,124,13,68,7,57,4
+Bhilai,"32Bungalows, Bhilai - CECB",20-11-2023 12:00:00,82,99,11,36,4,19,6
+Bhilai,"Civic Center, Bhilai - Bhilai Steel Plant",20-11-2023 12:00:00,41,49,11,40,16,6,1
+Bhilai,"Hathkhoj, Bhilai - CECB",20-11-2023 12:00:00,86,104,43,24,37,38,8
+Bilaspur,"Mangala, Bilaspur - NTPC",20-11-2023 12:00:00,29,40,,,,6,
+Chhal,"Nawapara SECL Colony, Chhal - CECB",20-11-2023 12:00:00,34,49,13,62,14,16,2
+Korba,"Rampur, Korba - CECB",20-11-2023 12:00:00,26,61,8,23,NA,27,2
+Korba,"Urja Nagar, Korba - CECB",20-11-2023 12:00:00,23,42,10,23,47,61,5
+Milupara,"Govt. Higher Secondary School, Milupara - CECB",20-11-2023 12:00:00,18,31,9,20,25,13,2
+Raipur,"AIIMS, Raipur - CECB",20-11-2023 12:00:00,NA,NA,NA,NA,NA,NA,
+Raipur,"Bhatagaon New ISBT, Raipur - CECB",20-11-2023 12:00:00,43,49,3,37,4,46,1
+Raipur,"Siltara Phase-II, Raipur - CECB",20-11-2023 12:00:00,40,104,3,49,3,24,12
+Tumidih,"OP Jindal Industrial Park, Tumidih - CECB",20-11-2023 12:00:00,NA,NA,NA,26,36,NA,NA
+Delhi,"Alipur, Delhi - DPCC",20-11-2023 12:00:00,365,210,9,70,17,48,10
+Delhi,"Anand Vihar, Delhi - DPCC",20-11-2023 12:00:00,359,323,7,,48,51,10
+Delhi,"Ashok Vihar, Delhi - DPCC",20-11-2023 12:00:00,309,343,6,,3,35,5
+Delhi,"Aya Nagar, Delhi - IMD",20-11-2023 12:00:00,261,206,,86,22,7,
+Delhi,"Bawana, Delhi - DPCC",20-11-2023 12:00:00,416,367,4,100,36,26,11
+Delhi,"Burari Crossing, Delhi - IMD",20-11-2023 12:00:00,320,247,,117,12,6,
+Delhi,"CRRI Mathura Road, Delhi - IMD",20-11-2023 12:00:00,259,229,,106,38,27,
+Delhi,"DTU, Delhi - CPCB",20-11-2023 12:00:00,220,283,32,102,7,245,25
+Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",20-11-2023 12:00:00,340,226,6,103,24,38,9
+Delhi,"Dwarka-Sector 8, Delhi - DPCC ",20-11-2023 12:00:00,384,343,4,110,4,63,24
+Delhi,"IGI Airport (T3), Delhi - IMD",20-11-2023 12:00:00,328,242,,119,5,26,
+Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",20-11-2023 12:00:00,248,189,18,86,24,21,12
+Delhi,"ITO, Delhi - CPCB",20-11-2023 12:00:00,321,204,15,110,38,242,14
+Delhi,"Jahangirpuri, Delhi - DPCC",20-11-2023 12:00:00,402,377,21,83,18,20,20
+Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",20-11-2023 12:00:00,325,208,12,106,31,33,13
+Delhi,"Lodhi Road, Delhi - IMD",20-11-2023 12:00:00,283,172,,122,28,7,
+Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",20-11-2023 12:00:00,332,238,6,83,17,44,26
+Delhi,"Mandir Marg, Delhi - DPCC",20-11-2023 12:00:00,336,210,5,75,16,66,18
+Delhi,"Mundka, Delhi - DPCC",20-11-2023 12:00:00,384,324,16,83,13,78,9
+Delhi,"NSIT Dwarka, Delhi - CPCB",20-11-2023 12:00:00,345,252,18,89,23,52,17
+Delhi,"Najafgarh, Delhi - DPCC",20-11-2023 12:00:00,326,182,4,68,1,22,22
+Delhi,"Narela, Delhi - DPCC",20-11-2023 12:00:00,374,322,4,61,12,52,10
+Delhi,"Nehru Nagar, Delhi - DPCC",20-11-2023 12:00:00,388,281,13,63,9,94,16
+Delhi,"New Moti Bagh, Delhi - MHUA",20-11-2023 12:00:00,346,,,127,,6,
+Delhi,"North Campus, DU, Delhi - IMD",20-11-2023 12:00:00,341,246,,112,20,39,
+Delhi,"Okhla Phase-2, Delhi - DPCC",20-11-2023 12:00:00,370,319,14,96,17,94,13
+Delhi,"Patparganj, Delhi - DPCC",20-11-2023 12:00:00,377,322,16,105,58,79,9
+Delhi,"Punjabi Bagh, Delhi - DPCC",20-11-2023 12:00:00,410,336,NA,33,29,116,7
+Delhi,"Pusa, Delhi - DPCC",20-11-2023 12:00:00,334,231,8,97,4,48,6
+Delhi,"Pusa, Delhi - IMD",20-11-2023 12:00:00,314,193,,121,35,71,
+Delhi,"R K Puram, Delhi - DPCC",20-11-2023 12:00:00,354,246,26,101,54,65,7
+Delhi,"Rohini, Delhi - DPCC",20-11-2023 12:00:00,392,345,5,106,40,50,24
+Delhi,"Shadipur, Delhi - CPCB",20-11-2023 12:00:00,355,335,26,57,20,74,40
+Delhi,"Sirifort, Delhi - CPCB",20-11-2023 12:00:00,368,318,42,114,24,35,7
+Delhi,"Sonia Vihar, Delhi - DPCC",20-11-2023 12:00:00,362,275,4,28,12,36,7
+Delhi,"Sri Aurobindo Marg, Delhi - DPCC",20-11-2023 12:00:00,318,171,14,77,14,24,8
+Delhi,"Vivek Vihar, Delhi - DPCC",20-11-2023 12:00:00,165,282,6,76,7,42,11
+Delhi,"Wazirpur, Delhi - DPCC",20-11-2023 12:00:00,398,353,15,116,12,20,
+Ahmedabad,"Chandkheda, Ahmedabad - IITM",20-11-2023 12:00:00,114,112,3,32,28,12,2
+Ahmedabad,"Gyaspur, Ahmedabad - IITM",20-11-2023 12:00:00,176,141,11,10,32,10,3
+Ahmedabad,"Maninagar, Ahmedabad - GPCB",20-11-2023 12:00:00,187,133,21,64,52,45,
+Ahmedabad,"Raikhad, Ahmedabad - IITM",20-11-2023 12:00:00,66,93,1,29,11,9,2
+Ahmedabad,"Rakhial, Ahmedabad - IITM",20-11-2023 12:00:00,152,141,6,27,33,3,5
+Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",20-11-2023 12:00:00,72,96,16,23,30,23,85
+Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",20-11-2023 12:00:00,72,78,2,30,21,17,6
+Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",20-11-2023 12:00:00,73,100,19,74,24,15,24
+Ahmedabad,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",20-11-2023 12:00:00,142,138,3,43,13,5,1
+Ankleshwar,"GIDC, Ankleshwar - GPCB",20-11-2023 12:00:00,140,100,47,92,14,31,6
+Gandhinagar,"GIFT City, Gandhinagar - IITM",20-11-2023 12:00:00,129,121,2,12,18,8,1
+Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",20-11-2023 12:00:00,227,131,6,41,34,11,5
+Gandhinagar,"Sector-10, Gandhinagar - GPCB",20-11-2023 12:00:00,95,86,11,46,15,10,1
+Nandesari,"GIDC, Nandesari - Nandesari Ind. Association",20-11-2023 12:00:00,23,19,,50,,10,
+Surat,"Science Center, Surat - SMC",20-11-2023 12:00:00,199,194,11,51,,10,
+Vapi,"Phase-1 GIDC, Vapi - GPCB",20-11-2023 12:00:00,142,184,46,170,2,,6
+Vatva,"Phase-4 GIDC, Vatva - GPCB",20-11-2023 12:00:00,107,101,6,64,34,49,2
+Ambala,"Patti Mehar, Ambala - HSPCB",20-11-2023 12:00:00,163,110,25,89,27,158,34
+Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",20-11-2023 12:00:00,359,288,11,99,63,36,11
+Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",20-11-2023 12:00:00,303,229,6,30,11,12,2
+Bhiwani,"H.B. Colony, Bhiwani - HSPCB",20-11-2023 12:00:00,267,170,10,58,20,14,4
+Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",20-11-2023 12:00:00,244,157,16,72,15,12,6
+Dharuhera,"Municipal Corporation Office, Dharuhera - HSPCB",20-11-2023 12:00:00,303,230,15,45,38,74,20
+Faridabad,"New Industrial Town, Faridabad - HSPCB",20-11-2023 12:00:00,366,338,NA,45,11,NA,NA
+Faridabad,"Sector 11, Faridabad - HSPCB",20-11-2023 12:00:00,298,264,19,89,3,31,6
+Faridabad,"Sector 30, Faridabad - HSPCB",20-11-2023 12:00:00,321,207,5,102,2,31,9
+Faridabad,"Sector- 16A, Faridabad - HSPCB",20-11-2023 12:00:00,338,,46,28,14,25,
+Fatehabad,"Huda Sector, Fatehabad - HSPCB",20-11-2023 12:00:00,344,219,22,8,22,30,10
+Gurugram,"NISE Gwal Pahari, Gurugram - IMD",20-11-2023 12:00:00,183,111,,83,6,17,
+Gurugram,"Sector-51, Gurugram - HSPCB",20-11-2023 12:00:00,345,242,3,106,11,15,10
+Gurugram,"Teri Gram, Gurugram - HSPCB",20-11-2023 12:00:00,235,152,4,35,20,12,16
+Gurugram,"Vikas Sadan, Gurugram - HSPCB",20-11-2023 12:00:00,226,,42,104,17,13,
+Hisar,"Urban Estate-II, Hisar - HSPCB",20-11-2023 12:00:00,274,179,91,94,16,8,3
+Jind,"Police Lines, Jind - HSPCB",20-11-2023 12:00:00,279,163,6,29,7,12,4
+Kaithal,"Rishi Nagar, Kaithal - HSPCB",20-11-2023 12:00:00,221,173,21,54,31,25,8
+Karnal,"Sector-12, Karnal - HSPCB",20-11-2023 12:00:00,158,135,15,5,11,10,11
+Kurukshetra,"Sector-7, Kurukshetra - HSPCB",20-11-2023 12:00:00,230,132,13,35,11,19,6
+Mandikhera,"General Hospital, Mandikhera - HSPCB",20-11-2023 12:00:00,46,134,35,58,30,19,19
+Manesar,"Sector-2 IMT, Manesar - HSPCB",20-11-2023 12:00:00,234,184,25,50,22,2,13
+Narnaul,"Shastri Nagar, Narnaul - HSPCB",20-11-2023 12:00:00,234,160,12,15,6,149,52
+Palwal,"Shyam Nagar, Palwal - HSPCB",20-11-2023 12:00:00,58,131,9,54,10,5,3
+Panchkula,"Sector-6, Panchkula - HSPCB ",20-11-2023 12:00:00,50,,9,27,47,25,
+Panipat,"Sector-18, Panipat - HSPCB",20-11-2023 12:00:00,165,153,12,25,32,30,2
+Rohtak,"MD University, Rohtak - HSPCB",20-11-2023 12:00:00,287,,9,22,40,35,
+Sirsa,"F-Block, Sirsa - HSPCB",20-11-2023 12:00:00,334,201,18,101,39,13,18
+Sonipat,"Murthal, Sonipat - HSPCB",20-11-2023 12:00:00,367,231,20,54,22,40,9
+Yamuna Nagar,"Gobind Pura, Yamuna Nagar - HSPCB",20-11-2023 12:00:00,143,133,6,56,8,39,10
+Baddi,"HIMUDA Complex Phase-1, Baddi - HPPCB",20-11-2023 12:00:00,110,106,20,25,80,20,4
+Srinagar,"Rajbagh, Srinagar - JKSPCB",20-11-2023 12:00:00,NA,NA,NA,20,6,NA,NA
+Dhanbad,"Sardar Patel Nagar, Dhanbad - JSPCB",20-11-2023 12:00:00,NA,NA,NA,,10,NA,
+Bagalkot,"Vidayagiri, Bagalkot - KSPCB",20-11-2023 12:00:00,40,39,8,30,8,17,2
+Belgaum,"Ramteerth Nagar, Belgaum - KSPCB",20-11-2023 12:00:00,29,66,14,46,20,10,1
+Bengaluru,"BTM Layout, Bengaluru - CPCB",20-11-2023 12:00:00,31,44,12,49,27,28,3
+Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",20-11-2023 12:00:00,80,73,6,50,11,11,1
+Bengaluru,"City Railway Station, Bengaluru - KSPCB",20-11-2023 12:00:00,,90,13,67,,26,
+Bengaluru,"Hebbal, Bengaluru - KSPCB",20-11-2023 12:00:00,44,49,30,,8,,
+Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",20-11-2023 12:00:00,41,42,5,14,38,,
+Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",20-11-2023 12:00:00,59,70,21,32,34,14,4
+Bengaluru,"Jigani, Bengaluru - KSPCB",20-11-2023 12:00:00,49,71,16,47,45,35,3
+Bengaluru,"Kasturi Nagar, Bengaluru - KSPCB",20-11-2023 12:00:00,34,37,8,25,15,17,4
+Bengaluru,"Peenya, Bengaluru - CPCB",20-11-2023 12:00:00,34,36,9,37,34,22,5
+Bengaluru,"RVCE-Mailasandra, Bengaluru - KSPCB",20-11-2023 12:00:00,NA,NA,8,52,40,31,4
+Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",20-11-2023 12:00:00,,43,2,31,,26,
+Bengaluru,"Shivapura_Peenya, Bengaluru - KSPCB",20-11-2023 12:00:00,38,43,8,26,26,15,4
+Bengaluru,"Silk Board, Bengaluru - KSPCB",20-11-2023 12:00:00,92,72,7,13,23,26,2
+Bidar,"Naubad, Bidar - KSPCB",20-11-2023 12:00:00,106,92,16,31,29,8,3
+Chamarajanagar,"Urban, Chamarajanagar - KSPCB",20-11-2023 12:00:00,30,44,4,20,21,29,2
+Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",20-11-2023 12:00:00,49,42,13,25,35,6,1
+Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",20-11-2023 12:00:00,37,46,4,27,23,20,3
+Davanagere,"Devaraj Urs Badavane, Davanagere - KSPCB",20-11-2023 12:00:00,45,53,3,14,22,11,1
+Dharwad,"Kalabhavan, Dharwad - KSPCB",20-11-2023 12:00:00,22,39,4,62,38,19,3
+Gadag,"Panchal Nagar, Gadag - KSPCB",20-11-2023 12:00:00,27,30,4,49,25,13,2
+Hassan,"B.Katihalli, Hassan - KSPCB",20-11-2023 12:00:00,53,64,16,14,12,16,3
+Haveri,"Ashwini Nagar, Haveri - KSPCB",20-11-2023 12:00:00,64,76,19,40,19,20,3
+Hubballi,"Deshpande Nagar, Hubballi - KSPCB",20-11-2023 12:00:00,54,NA,11,59,33,25,12
+Hubballi,"Lingaraj Nagar, Hubballi - KSPCB",20-11-2023 12:00:00,28,32,1,33,44,8,2
+Kalaburagi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",20-11-2023 12:00:00,,37,65,31,19,12,1
+Kalaburagi,"Mahatma Basaveswar Colony, Kalaburgi - KSPCB",20-11-2023 12:00:00,29,48,5,41,34,9,3
+Kolar,"Tamaka Ind. Area, Kolar - KSPCB",20-11-2023 12:00:00,NA,NA,13,104,28,13,4
+Koppal,"Diwator Nagar, Koppal - KSPCB",20-11-2023 12:00:00,28,47,23,46,16,12,5
+Madikeri,"Stuart Hill, Madikeri - KSPCB",20-11-2023 12:00:00,26,31,4,16,30,9,NA
+Mangalore,"Kadri, Mangalore - KSPCB",20-11-2023 12:00:00,NA,NA,NA,52,33,NA,NA
+Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",20-11-2023 12:00:00,28,39,3,23,14,22,3
+Raichur,"Haji Colony, Raichur - KSPCB",20-11-2023 12:00:00,34,NA,57,64,3,22,3
+Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",20-11-2023 12:00:00,49,39,34,23,34,22,2
+Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",20-11-2023 12:00:00,36,64,4,17,20,21,3
+Tumakuru,"Thimmalapura, Tumakuru - KSPCB",20-11-2023 12:00:00,63,87,5,26,20,NA,NA
+Udupi,"Brahmagiri, Udupi - KSPCB",20-11-2023 12:00:00,,81,9,33,73,,
+Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",20-11-2023 12:00:00,25,42,8,28,28,22,2
+Yadgir,"Collector Office, Yadgir - KSPCB",20-11-2023 12:00:00,53,54,20,17,19,NA,NA
+Eloor,"Udyogamandal, Eloor - Kerala PCB",20-11-2023 12:00:00,59,72,7,64,21,9,NA
+Kannur,"Thavakkara, Kannur - Kerala PCB",20-11-2023 12:00:00,40,56,NA,36,16,6,1
+Kochi,"Vyttila, Kochi - Kerala PCB",20-11-2023 12:00:00,68,94,6,50,,2,2
+Kollam,"Polayathode, Kollam - Kerala PCB",20-11-2023 12:00:00,50,61,6,34,25,8,1
+Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",20-11-2023 12:00:00,27,34,9,25,15,13,2
+Thrissur,"Corporation Ground, Thrissur - Kerala PCB",20-11-2023 12:00:00,51,59,6,16,39,10,1
+Bhopal,"Idgah Hills, Bhopal - MPPCB",20-11-2023 12:00:00,285,140,21,44,75,33,6
+Bhopal,"Paryavaran Parisar, Bhopal - MPPCB",20-11-2023 12:00:00,287,158,11,27,26,57,3
+Bhopal,"T T Nagar, Bhopal - MPPCB",20-11-2023 12:00:00,259,168,30,52,67,53,3
+Damoh,"Shrivastav Colony, Damoh - MPPCB",20-11-2023 12:00:00,38,63,,22,,7,
+Dewas,"Bhopal Chauraha, Dewas - MPPCB",20-11-2023 12:00:00,211,132,43,34,37,12,3
+Gwalior,"City Center, Gwalior - MPPCB",20-11-2023 12:00:00,172,180,28,33,38,4,2
+Gwalior,"Deen Dayal Nagar, Gwalior - MPPCB",20-11-2023 12:00:00,141,147,23,86,161,82,23
+Gwalior,"Maharaj Bada, Gwalior - MPPCB",20-11-2023 12:00:00,211,269,15,40,39,54,2
+Gwalior,"Phool Bagh, Gwalior - Mondelez Ind. Food",20-11-2023 12:00:00,234,149,44,33,,4,
+Indore,"Chhoti Gwaltoli, Indore - MPPCB",20-11-2023 12:00:00,242,137,23,65,87,35,7
+Jabalpur,"Gupteshwar, Jabalpur - JMC",20-11-2023 12:00:00,86,71,14,49,26,38,6
+Jabalpur,"Marhatal, Jabalpur - MPPCB",20-11-2023 12:00:00,130,115,7,57,37,35,2
+Jabalpur,"Suhagi, Jabalpur - JMC",20-11-2023 12:00:00,99,101,13,30,21,11,4
+Katni,"Gole Bazar, Katni - MPPCB",20-11-2023 12:00:00,112,105,19,32,57,47,5
+Maihar,"Sahilara, Maihar - KJS Cements",20-11-2023 12:00:00,59,63,13,25,,14,
+Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",20-11-2023 12:00:00,73,143,46,72,15,60,8
+Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",20-11-2023 12:00:00,198,133,17,66,40,16,3
+Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",20-11-2023 12:00:00,168,153,12,,,33,
+Sagar,"Civil Lines, Sagar - MPPCB",20-11-2023 12:00:00,171,111,10,27,53,26,4
+Sagar,"Deen Dayal Nagar, Sagar - MPPCB",20-11-2023 12:00:00,59,157,9,54,,22,
+Satna,"Bandhavgar Colony, Satna - Birla Cement",20-11-2023 12:00:00,46,32,NA,32,73,19,
+Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",20-11-2023 12:00:00,106,145,75,88,23,49,3
+Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",20-11-2023 12:00:00,246,157,19,51,85,24,7
+Ahmednagar,"Tarakpur, Ahmednagar - MPCB",20-11-2023 12:00:00,69,110,12,30,70,67,3
+Akola,"Ramdaspeth, Akola - MPCB",20-11-2023 12:00:00,64,113,18,33,47,35,8
+Amravati,"Shivneri Colony, Amravati - MPCB",20-11-2023 12:00:00,86,102,28,22,54,36,2
+Amravati,"Shri Shivaji Science College, Amaravati - MPCB",20-11-2023 12:00:00,137,122,44,42,54,40,2
+Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",20-11-2023 12:00:00,134,90,10,20,77,32,1
+Aurangabad,"Rachnakar Colony, Aurangabad - MPCB",20-11-2023 12:00:00,165,133,22,,36,40,2
+Badlapur,"Katrap, Badlapur - MPCB",20-11-2023 12:00:00,180,168,9,45,6,40,3
+Belapur,"CBD Belapur, Belapur - MPCB",20-11-2023 12:00:00,79,105,7,41,13,29,14
+Bhiwandi,"Gokul Nagar, Bhiwandi - MPCB",20-11-2023 12:00:00,162,175,10,47,14,59,10
+Boisar,"Khaira, Boisar - MPCB",20-11-2023 12:00:00,NA,NA,NA,NA,NA,NA,NA
+Chandrapur,"Chauhan Colony, Chandrapur - MPCB",20-11-2023 12:00:00,108,83,7,40,112,18,5
+Chandrapur,"MIDC Khutala, Chandrapur - MPCB",20-11-2023 12:00:00,NA,NA,NA,44,1,NA,NA
+Dhule,"Deopur, Dhule - MPCB",20-11-2023 12:00:00,122,137,17,29,18,16,1
+Jalgaon,"Prabhat Colony, Jalgaon - MPCB",20-11-2023 12:00:00,117,127,10,7,56,45,1
+Jalna,"Old MIDC, Jalna - MPCB",20-11-2023 12:00:00,103,113,3,31,38,42,7
+Kalyan,"Khadakpada, Kalyan - MPCB",20-11-2023 12:00:00,55,107,32,11,10,37,1
+Kolhapur,"Shivaji University, Kolhapur - MPCB",20-11-2023 12:00:00,135,112,4,36,23,53,6
+Kolhapur,"Sinchan Bhavan, Kolhapur - MPCB",20-11-2023 12:00:00,141,139,1,48,19,40,8
+Latur,"Sawe Wadi, Latur - MPCB",20-11-2023 12:00:00,NA,NA,NA,NA,NA,NA,NA
+Mahad,"Kamble Tarf Birwadi, Mahad - MPCB",20-11-2023 12:00:00,232,125,39,32,7,25,5
+Malegaon,"Mahesh Nagar, Malegaon - MPCB",20-11-2023 12:00:00,134,153,10,18,15,11,6
+Mira-Bhayandar,"Bhayandar West, Mira-Bhayandar - MPCB",20-11-2023 12:00:00,NA,NA,NA,NA,NA,NA,NA
+Mumbai,"Bandra Kurla Complex, Mumbai - IITM",20-11-2023 12:00:00,146,117,24,45,8,47,3
+Mumbai,"Bandra Kurla Complex, Mumbai - MPCB",20-11-2023 12:00:00,107,107,6,57,11,61,25
+Mumbai,"Borivali East, Mumbai - IITM",20-11-2023 12:00:00,115,155,,10,2,96,7
+Mumbai,"Borivali East, Mumbai - MPCB",20-11-2023 12:00:00,60,71,5,,26,9,1
+Mumbai,"Byculla, Mumbai - BMC",20-11-2023 12:00:00,104,108,8,36,16,58,14
+Mumbai,"Chakala-Andheri East, Mumbai - IITM",20-11-2023 12:00:00,66,96,14,43,24,87,14
+Mumbai,"Chembur, Mumbai - MPCB",20-11-2023 12:00:00,NA,NA,12,36,15,54,2
+Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",20-11-2023 12:00:00,52,115,3,89,5,NA,6
+Mumbai,"Colaba, Mumbai - MPCB",20-11-2023 12:00:00,56,71,18,41,13,65,2
+Mumbai,"Deonar, Mumbai - IITM",20-11-2023 12:00:00,118,109,8,81,24,23,2
+Mumbai,"Ghatkopar, Mumbai - BMC",20-11-2023 12:00:00,95,85,3,21,12,32,NA
+Mumbai,"Kandivali East, Mumbai - MPCB",20-11-2023 12:00:00,86,122,11,56,15,75,6
+Mumbai,"Kandivali West, Mumbai - BMC",20-11-2023 12:00:00,100,144,10,31,13,41,1
+Mumbai,"Kherwadi_Bandra East, Mumbai - MPCB",20-11-2023 12:00:00,142,119,47,55,3,44,8
+Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",20-11-2023 12:00:00,79,92,7,63,32,3,1
+Mumbai,"Kurla, Mumbai - MPCB",20-11-2023 12:00:00,73,119,32,35,36,27,4
+Mumbai,"Malad West, Mumbai - IITM",20-11-2023 12:00:00,120,104,5,37,7,,
+Mumbai,"Mazgaon, Mumbai - IITM",20-11-2023 12:00:00,111,119,8,42,10,76,7
+Mumbai,"Mindspace-Malad West, Mumbai - MPCB",20-11-2023 12:00:00,59,79,11,34,11,36,8
+Mumbai,"Mulund West, Mumbai - MPCB",20-11-2023 12:00:00,111,89,14,95,8,24,10
+Mumbai,"Navy Nagar-Colaba, Mumbai - IITM",20-11-2023 12:00:00,75,68,15,20,33,24,14
+Mumbai,"Powai, Mumbai - MPCB",20-11-2023 12:00:00,57,87,65,39,26,25,1
+Mumbai,"Shivaji Nagar, Mumbai - BMC",20-11-2023 12:00:00,149,146,13,17,34,70,5
+Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",20-11-2023 12:00:00,75,67,,98,27,42,6
+Mumbai,"Sion, Mumbai - MPCB",20-11-2023 12:00:00,66,96,25,38,12,133,3
+Mumbai,"Vasai West, Mumbai - MPCB",20-11-2023 12:00:00,130,143,18,68,25,27,4
+Mumbai,"Vile Parle West, Mumbai - MPCB",20-11-2023 12:00:00,74,96,13,,4,17,7
+Mumbai,"Worli, Mumbai - MPCB",20-11-2023 12:00:00,63,92,10,40,6,21,1
+Nagpur,"Ambazari, Nagpur - MPCB",20-11-2023 12:00:00,156,114,29,21,50,32,7
+Nagpur,"Mahal, Nagpur - MPCB",20-11-2023 12:00:00,152,146,31,39,43,36,5
+Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",20-11-2023 12:00:00,158,117,18,25,29,47,4
+Nagpur,"Ram Nagar, Nagpur - MPCB",20-11-2023 12:00:00,125,128,19,24,29,27,7
+Nanded,"Sneh Nagar, Nanded - MPCB",20-11-2023 12:00:00,NA,NA,NA,40,46,NA,NA
+Nashik,"Gangapur Road, Nashik - MPCB",20-11-2023 12:00:00,125,96,4,18,34,8,
+Nashik,"Hirawadi, Nashik - MPCB",20-11-2023 12:00:00,111,103,4,28,3,26,5
+Nashik,"MIDC Ambad, Nashik - MPCB",20-11-2023 12:00:00,204,170,11,29,23,31,4
+Nashik,"Pandav Nagari, Nashik - MPCB",20-11-2023 12:00:00,91,115,16,38,27,24,7
+Navi Mumbai,"Kopripada-Vashi, Navi Mumbai - MPCB",20-11-2023 12:00:00,52,78,22,32,32,65,6
+Navi Mumbai,"Mahape, Navi Mumbai - MPCB",20-11-2023 12:00:00,67,146,26,57,22,38,3
+Navi Mumbai,"Nerul, Navi Mumbai - MPCB",20-11-2023 12:00:00,71,95,9,88,,45,1
+Navi Mumbai,"Sanpada, Navi Mumbai - MPCB",20-11-2023 12:00:00,66,81,30,20,35,44,14
+Navi Mumbai,"Sector-2E Kalamboli, Navi Mumbai - MPCB",20-11-2023 12:00:00,102,113,13,30,5,75,NA
+Navi Mumbai,"Tondare-Taloja, Navi Mumbai - MPCB",20-11-2023 12:00:00,144,80,78,33,11,55,4
+Parbhani,"Masoom Colony, Parbhani - MPCB",20-11-2023 12:00:00,76,109,43,45,43,20,4
+Pimpri-Chinchwad,"Gavalinagar, Pimpri Chinchwad - MPCB",20-11-2023 12:00:00,91,90,6,45,31,20,4
+Pimpri-Chinchwad,"Park Street Wakad, Pimpri Chinchwad - MPCB",20-11-2023 12:00:00,171,129,8,56,24,72,11
+Pimpri-Chinchwad,"Thergaon, Pimpri Chinchwad - MPCB",20-11-2023 12:00:00,144,110,5,45,39,90,7
+Pune,"Alandi, Pune - IITM",20-11-2023 12:00:00,178,121,,43,7,21,
+Pune,"Bhosari, Pune - IITM",20-11-2023 12:00:00,69,92,,44,20,18,
+Pune,"Karve Road, Pune - MPCB",20-11-2023 12:00:00,47,71,13,18,8,2,
+Pune,"Mhada Colony, Pune - IITM",20-11-2023 12:00:00,NA,NA,,NA,NA,NA,
+Pune,"Revenue Colony-Shivajinagar, Pune - IITM",20-11-2023 12:00:00,223,128,126,106,8,191,26
+Pune,"Savitribai Phule Pune University, Pune - MPCB",20-11-2023 12:00:00,140,140,3,38,24,13,2
+Sangli,"Vijay Nagar, Sangli - MPCB",20-11-2023 12:00:00,104,103,4,35,76,28,3
+Solapur,"Dnyaneshwar Nagar, Solapur - MPCB",20-11-2023 12:00:00,240,145,2,21,37,30,21
+Solapur,"Ratandeep Housing Society, Solapur - MPCB",20-11-2023 12:00:00,71,96,8,21,38,30,12
+Solapur,"Solapur, Solapur - MPCB",20-11-2023 12:00:00,44,99,45,,35,56,
+Thane,"Kasarvadavali, Thane - MPCB",20-11-2023 12:00:00,NA,NA,NA,16,56,NA,NA
+Thane,"Pimpleshwar Mandir, Thane - MPCB",20-11-2023 12:00:00,,NA,NA,NA,NA,NA,NA
+Thane,"Upvan Fort, Thane - MPCB",20-11-2023 12:00:00,73,149,17,22,39,26,11
+Ulhasnagar,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",20-11-2023 12:00:00,199,149,30,32,23,47,3
+Virar,"Bolinj, Virar - MPCB",20-11-2023 12:00:00,79,92,9,49,22,21,5
+Imphal,"DM College of Science, Imphal - Manipur PCB",20-11-2023 12:00:00,10,20,75,6,,8,2
+Shillong,"JN Stadium, Shillong - Meghalaya PCB",20-11-2023 12:00:00,62,92,25,28,16,20,3
+Shillong,"Lumpyngngad, Shillong - Meghalaya PCB",20-11-2023 12:00:00,20,16,17,9,1,6,1
+Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",20-11-2023 12:00:00,NA,NA,1,11,2,NA,NA
+Kohima,"PWD Juction, Kohima - NPCB",20-11-2023 12:00:00,NA,NA,NA,NA,NA,NA,NA
+Angul,"Hakimapada, Angul - OSPCB",20-11-2023 12:00:00,118,129,46,51,28,NA,NA
+Balasore,"Kalidaspur, Balasore - OSPCB",20-11-2023 12:00:00,102,115,20,32,32,13,4
+Barbil,"Forest Office, Barbil - OSPCB",20-11-2023 12:00:00,117,154,21,84,25,11,4
+Baripada,"Meher Colony, Baripada - OSPCB",20-11-2023 12:00:00,68,71,4,30,14,,
+Bhubaneswar,"Lingraj Mandir, Bhubaneswar - OSPCB",20-11-2023 12:00:00,95,103,16,68,53,21,3
+Bhubaneswar,"Patia, Bhubaneswar - OSPCB",20-11-2023 12:00:00,78,90,14,24,47,15,4
+Bileipada,"Tata Township, Bileipada - OSPCB",20-11-2023 12:00:00,93,162,29,18,11,6,11
+Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",20-11-2023 12:00:00,38,53,33,51,1,NA,NA
+Byasanagar,"Ferro Chrome Colony, Byasanagar - OSPCB",20-11-2023 12:00:00,62,68,4,93,40,13,2
+Cuttack,"CDA Area, Cuttack - OSPCB",20-11-2023 12:00:00,76,96,10,37,23,22,2
+Keonjhar,"Jagamohanpur, Keonjhar - OSPCB",20-11-2023 12:00:00,69,87,10,36,6,47,12
+Nayagarh,"Dabuna, Nayagarh - OSPCB",20-11-2023 12:00:00,59,95,4,16,4,45,7
+Rairangpur,"Divisional Forest Office, Rairangpur - OSPCB",20-11-2023 12:00:00,71,74,9,19,47,7,3
+Rourkela,"Raghunathpali, Rourkela - OSPCB",20-11-2023 12:00:00,80,98,2,41,13,26,5
+Rourkela,"Sector-2, Rourkela - OSPCB",20-11-2023 12:00:00,NA,,,17,,NA,
+Suakati,"OMC Colony, Suakati - OSPCB",20-11-2023 12:00:00,64,86,6,36,,48,4
+Talcher,"Talcher Coalfields,Talcher - OSPCB",20-11-2023 12:00:00,128,116,25,28,12,61,6
+Tensa,"Barsua Iron Ore Mines, Tensa - OSPCB",20-11-2023 12:00:00,39,78,14,22,6,51,6
+Puducherry,"Jawahar Nagar, Puducherry - PPCC",20-11-2023 12:00:00,23,32,5,19,18,14,2
+Amritsar,"Golden Temple, Amritsar - PPCB",20-11-2023 12:00:00,261,151,12,19,54,39,2
+Bathinda,"Hardev Nagar, Bathinda - PPCB",20-11-2023 12:00:00,278,190,18,26,,31,
+Jalandhar,"Civil Line, Jalandhar - PPCB",20-11-2023 12:00:00,226,144,20,55,24,41,10
+Khanna,"Kalal Majra, Khanna - PPCB",20-11-2023 12:00:00,154,155,21,48,13,36,16
+Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",20-11-2023 12:00:00,215,153,14,93,10,38,10
+Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",20-11-2023 12:00:00,190,127,16,35,40,39,5
+Patiala,"Model Town, Patiala - PPCB",20-11-2023 12:00:00,187,143,16,36,35,44,7
+Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",20-11-2023 12:00:00,157,236,4,61,,,
+Ajmer,"Civil Lines, Ajmer - RSPCB",20-11-2023 12:00:00,151,133,15,31,21,39,18
+Alwar,"Moti Doongri, Alwar - RSPCB",20-11-2023 12:00:00,114,102,30,69,16,59,9
+Banswara,"Rati Talai, Banswara - RSPCB",20-11-2023 12:00:00,NA,NA,NA,56,97,NA,
+Baran,"Bamboliya, Baran - RSPCB",20-11-2023 12:00:00,241,151,13,40,48,32,8
+Barmer,"Railway Colony, Barmer - RSPCB",20-11-2023 12:00:00,NA,133,7,27,178,22,8
+Bharatpur,"Krishna Nagar, Bharatpur - RSPCB",20-11-2023 12:00:00,224,178,7,107,22,117,30
+Bhilwara,"Pratap Nagar, Bhilwara - RSPCB",20-11-2023 12:00:00,268,145,8,49,52,42,8
+Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",20-11-2023 12:00:00,299,283,21,41,19,19,11
+Bikaner,"MM Ground, Bikaner - RSPCB",20-11-2023 12:00:00,336,306,8,85,41,41,8
+Bundi,"New Colony, Bundi - RSPCB",20-11-2023 12:00:00,257,199,8,39,87,30,6
+Chittorgarh,"Shastri Nagar, Chittorgarh - RSPCB",20-11-2023 12:00:00,244,195,18,90,30,64,7
+Churu,"Subash Chowk, Churu - RSPCB",20-11-2023 12:00:00,270,171,16,59,54,45,10
+Dausa,"Khatikan Mohalla, Dausa - RSPCB",20-11-2023 12:00:00,NA,NA,NA,80,91,NA,NA
+Dholpur,"Raja Ganj, Dholpur - RSPCB",20-11-2023 12:00:00,NA,NA,NA,56,167,NA,NA
+Dungarpur,"Bhoiwada, Dungarpur - RSPCB",20-11-2023 12:00:00,312,140,5,41,27,25,10
+Hanumangarh,"Housing Board, Hanumangarh - RSPCB",20-11-2023 12:00:00,394,389,12,83,13,22,13
+Jaipur,"Adarsh Nagar, Jaipur - RSPCB",20-11-2023 12:00:00,227,124,16,47,95,64,10
+Jaipur,"Mansarovar Sector-12, Jaipur - RSPCB",20-11-2023 12:00:00,192,180,4,87,75,42,8
+Jaipur,"Police Commissionerate, Jaipur - RSPCB",20-11-2023 12:00:00,NA,NA,NA,54,88,NA,NA
+Jaipur,"RIICO Sitapura, Jaipur - RSPCB",20-11-2023 12:00:00,206,142,10,45,80,59,15
+Jaipur,"Sector-2 Murlipura, Jaipur - RSPCB",20-11-2023 12:00:00,168,141,14,47,165,22,3
+Jaipur,"Shastri Nagar, Jaipur - RSPCB",20-11-2023 12:00:00,257,167,16,43,146,50,14
+Jaisalmer,"Sadar Bazar, Jaisalmer - RSPCB",20-11-2023 12:00:00,210,184,8,40,105,25,5
+Jalore,"Mudtra Sili, Jalore - RSPCB",20-11-2023 12:00:00,235,207,9,56,81,65,10
+Jhalawar,"Rajlaxmi Nagar, Jhalawar - RSPCB",20-11-2023 12:00:00,262,162,7,45,66,35,7
+Jhunjhunu,"Indra Nagar, Jhunjhunu - RSPCB",20-11-2023 12:00:00,204,149,6,71,151,76,3
+Jodhpur,"Collectorate, Jodhpur - RSPCB",20-11-2023 12:00:00,240,181,18,70,75,NA,
+Jodhpur,"Digari Kalan, Jodhpur - RSPCB",20-11-2023 12:00:00,192,196,8,39,59,48,5
+Jodhpur,"Jhalamand, Jodhpur - RSPCB",20-11-2023 12:00:00,168,161,10,36,67,41,10
+Jodhpur,"Mandor, Jodhpur - RSPCB",20-11-2023 12:00:00,164,143,11,31,94,22,8
+Jodhpur,"Samrat Ashok Udhyan, Jodhpur - RSPCB",20-11-2023 12:00:00,NA,NA,NA,59,62,NA,NA
+Karauli,"Satyawati Vihar, Karauli - RSPCB",20-11-2023 12:00:00,88,87,NA,54,20,43,7
+Kota,"Dhanmandi, Kota - RSPCB",20-11-2023 12:00:00,320,185,12,54,15,70,4
+Kota,"Nayapura, Kota - RSPCB",20-11-2023 12:00:00,303,163,15,60,37,73,12
+Kota,"Shrinath Puram, Kota - RSPCB",20-11-2023 12:00:00,357,214,18,49,57,109,8
+Nagaur,"Karni Colony, Nagaur - RSPCB",20-11-2023 12:00:00,213,179,7,51,63,31,13
+Pali,"Indira Colony Vistar, Pali - RSPCB",20-11-2023 12:00:00,239,122,9,28,38,24,6
+Pratapgarh,"Pragati Nagar, Pratapgarh - RSPCB",20-11-2023 12:00:00,252,134,7,31,90,33,3
+Rajsamand,"Dhoinda, Rajsamand - RSPCB",20-11-2023 12:00:00,265,148,6,56,47,33,4
+Sawai Madhopur,"Sahu Nagar, Sawai Madhopur - RSPCB",20-11-2023 12:00:00,166,170,11,43,44,14,5
+Sikar,"Radhakishan Pura, Sikar - RSPCB",20-11-2023 12:00:00,220,238,6,53,161,44,13
+Sirohi,"Vedhaynath Colony, Sirohi - RSPCB",20-11-2023 12:00:00,193,148,2,36,70,45,9
+Sri Ganganagar,"Old City, Sri Ganganagar - RSPCB",20-11-2023 12:00:00,411,419,6,106,26,54,9
+Tonk,"Shastri Nagar, Tonk - RSPCB",20-11-2023 12:00:00,342,266,7,87,36,59,7
+Udaipur,"Ashok Nagar, Udaipur - RSPCB",20-11-2023 12:00:00,266,187,14,43,35,79,6
+Gangtok,"Zero Point GICI, Gangtok - SSPCB",20-11-2023 12:00:00,11,16,58,10,16,2,1
+Ariyalur,"Keelapalur, Ariyalur - TNPCB",20-11-2023 12:00:00,25,31,NA,,,16,
+Chengalpattu,"Crescent University, Chengalpattu - TNPCB",20-11-2023 12:00:00,NA,NA,NA,NA,NA,,
+Chennai,"Alandur Bus Depot, Chennai - CPCB",20-11-2023 12:00:00,68,61,14,45,17,45,8
+Chennai,"Arumbakkam, Chennai - TNPCB",20-11-2023 12:00:00,34,53,15,,,20,3
+Chennai,"Gandhi Nagar_Ennore, Chennai - TNPCB",20-11-2023 12:00:00,NA,NA,NA,,4,,
+Chennai,"Kodungaiyur, Chennai - TNPCB",20-11-2023 12:00:00,20,41,16,38,6,15,5
+Chennai,"Manali, Chennai - CPCB",20-11-2023 12:00:00,29,35,6,24,12,13,3
+Chennai,"Perungudi, Chennai - TNPCB",20-11-2023 12:00:00,30,45,3,34,,2,3
+Chennai,"Royapuram, Chennai - TNPCB",20-11-2023 12:00:00,28,42,3,34,9,18,2
+Chennai,"Velachery Res. Area, Chennai - CPCB",20-11-2023 12:00:00,28,45,28,44,13,28,10
+Coimbatore,"PSG College of Arts and Science, Coimbatore - TNPCB",20-11-2023 12:00:00,NA,NA,NA,55,4,3,
+Cuddalore,"Kudikadu, Cuddalore - TNPCB",20-11-2023 12:00:00,37,44,16,6,,101,27
+Cuddalore,"Semmandalam, Cuddalore - TNPCB",20-11-2023 12:00:00,27,20,,,2,9,
+Gummidipoondi,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",20-11-2023 12:00:00,121,110,15,,,8,5
+Hosur,"SIPCOT Phase-1, Hosur - TNPCB",20-11-2023 12:00:00,47,53,5,6,4,9,1
+Ooty,"Bombay Castel, Ooty - TNPCB",20-11-2023 12:00:00,NA,NA,NA,18,4,NA,NA
+Ramanathapuram,"Chalai Bazaar, Ramanathapuram - TNPCB",20-11-2023 12:00:00,15,NA,10,6,14,,1
+Salem,"Sona College of Technology, Salem - TNPCB",20-11-2023 12:00:00,70,60,80,32,3,9,1
+Thoothukudi,"Meelavittan, Thoothukudi - TNPCB",20-11-2023 12:00:00,,20,12,10,5,12,
+Vellore,"Vasanthapuram, Vellore - TNPCB",20-11-2023 12:00:00,48,50,14,20,1,6,1
+Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",20-11-2023 12:00:00,74,72,9,26,39,27,2
+Hyderabad,"Central University, Hyderabad - TSPCB",20-11-2023 12:00:00,39,61,7,45,3,24,4
+Hyderabad,"ECIL Kapra, Hyderabad - TSPCB",20-11-2023 12:00:00,54,62,9,22,23,7,9
+Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",20-11-2023 12:00:00,NA,NA,NA,,77,NA,NA
+Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",20-11-2023 12:00:00,NA,NA,NA,NA,NA,NA,NA
+Hyderabad,"IITH Kandi, Hyderabad - TSPCB",20-11-2023 12:00:00,48,56,16,28,11,11,2
+Hyderabad,"Kokapet, Hyderabad - TSPCB",20-11-2023 12:00:00,99,117,7,16,NA,7,1
+Hyderabad,"Kompally Municipal Office, Hyderabad - TSPCB",20-11-2023 12:00:00,51,46,4,20,21,11,4
+Hyderabad,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",20-11-2023 12:00:00,NA,NA,NA,18,18,,
+Hyderabad,"New Malakpet, Hyderabad - TSPCB",20-11-2023 12:00:00,33,58,8,29,13,24,3
+Hyderabad,"Ramachandrapuram, Hyderabad - TSPCB",20-11-2023 12:00:00,NA,NA,NA,50,36,NA,NA
+Hyderabad,"Sanathnagar, Hyderabad - TSPCB",20-11-2023 12:00:00,85,,7,47,14,28,
+Hyderabad,"Somajiguda, Hyderabad - TSPCB",20-11-2023 12:00:00,61,75,12,16,14,23,7
+Hyderabad,"Zoo Park, Hyderabad - TSPCB",20-11-2023 12:00:00,70,96,2,42,17,33,1
+Agartala,"Bardowali, Agartala - Tripura SPCB",20-11-2023 12:00:00,104,103,17,37,1,9,2
+Agra,"Manoharpur, Agra - UPPCB",20-11-2023 12:00:00,72,100,26,20,,5,3
+Agra,"Rohta, Agra - UPPCB",20-11-2023 12:00:00,72,63,18,33,14,8,1
+Agra,"Sanjay Palace, Agra - UPPCB",20-11-2023 12:00:00,76,67,7,58,38,15,
+Agra,"Sector-3B Avas Vikas Colony, Agra - UPPCB",20-11-2023 12:00:00,78,100,11,18,4,16,4
+Agra,"Shahjahan Garden, Agra - UPPCB",20-11-2023 12:00:00,63,96,12,19,1,10,5
+Agra,"Shastripuram, Agra - UPPCB",20-11-2023 12:00:00,104,114,12,15,NA,14,1
+Baghpat,"Sardar Patel Inter College, Baghpat - UPPCB",20-11-2023 12:00:00,295,217,18,103,10,3,NA
+Bareilly,"Civil Lines, Bareilly - UPPCB",20-11-2023 12:00:00,123,102,34,42,5,29,NA
+Bareilly,"Rajendra Nagar, Bareilly - UPPCB",20-11-2023 12:00:00,104,116,36,50,10,58,1
+Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",20-11-2023 12:00:00,240,205,21,95,13,70,14
+Firozabad,"Nagla Bhau, Firozabad - UPPCB",20-11-2023 12:00:00,138,92,26,60,14,26,2
+Firozabad,"Vibhab Nagar, Firozabad - UPPCB",20-11-2023 12:00:00,183,119,19,35,31,65,1
+Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",20-11-2023 12:00:00,308,329,16,23,210,129,12
+Ghaziabad,"Loni, Ghaziabad - UPPCB",20-11-2023 12:00:00,308,242,15,98,10,80,8
+Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",20-11-2023 12:00:00,286,197,22,75,19,148,13
+Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",20-11-2023 12:00:00,297,223,46,47,15,84,9
+Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",20-11-2023 12:00:00,119,98,47,50,4,2,2
+Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",20-11-2023 12:00:00,261,187,11,75,26,45,7
+Greater Noida,"Knowledge Park - V, Greater Noida - UPPCB",20-11-2023 12:00:00,328,327,10,NA,20,87,4
+Hapur,"Anand Vihar, Hapur - UPPCB",20-11-2023 12:00:00,241,184,33,58,36,82,6
+Jhansi,"Shivaji Nagar, Jhansi - UPPCB",20-11-2023 12:00:00,227,205,17,36,19,32,6
+Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",20-11-2023 12:00:00,106,143,15,47,6,31,2
+Kanpur,"NSI Kalyanpur, Kanpur - UPPCB",20-11-2023 12:00:00,132,137,20,48,31,21,3
+Kanpur,"Nehru Nagar, Kanpur - UPPCB",20-11-2023 12:00:00,129,109,10,45,29,40,
+Khurja,"Kalindi Kunj, Khurja - UPPCB",20-11-2023 12:00:00,110,89,34,60,24,59,2
+Lucknow,"B R Ambedkar University, Lucknow - UPPCB",20-11-2023 12:00:00,182,137,22,23,31,20,6
+Lucknow,"Gomti Nagar, Lucknow - UPPCB",20-11-2023 12:00:00,146,144,7,27,59,21,
+Lucknow,"Kendriya Vidyalaya, Lucknow - CPCB",20-11-2023 12:00:00,241,143,10,55,19,15,12
+Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",20-11-2023 12:00:00,202,121,22,33,78,16,2
+Lucknow,"Lalbagh, Lucknow - CPCB",20-11-2023 12:00:00,250,167,10,101,20,45,17
+Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",20-11-2023 12:00:00,179,189,10,49,12,38,20
+Meerut,"Ganga Nagar, Meerut - UPPCB",20-11-2023 12:00:00,331,290,18,52,8,65,8
+Meerut,"Jai Bhim Nagar, Meerut - UPPCB",20-11-2023 12:00:00,NA,NA,,NA,NA,NA,NA
+Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",20-11-2023 12:00:00,327,262,6,56,4,,
+Moradabad,"Buddhi Vihar, Moradabad - UPPCB",20-11-2023 12:00:00,200,150,16,50,14,23,9
+Moradabad,"Eco Herbal Park, Moradabad - UPPCB",20-11-2023 12:00:00,145,101,11,,23,29,7
+Moradabad,"Employment Office, Moradabad - UPPCB",20-11-2023 12:00:00,182,151,21,68,21,12,3
+Moradabad,"Jigar Colony, Moradabad - UPPCB",20-11-2023 12:00:00,147,156,107,70,9,30,5
+Moradabad,"Kashiram Nagar, Moradabad - UPPCB",20-11-2023 12:00:00,209,176,31,48,13,26,4
+Moradabad,"Transport Nagar, Moradabad - UPPCB",20-11-2023 12:00:00,159,121,38,42,15,39,6
+Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",20-11-2023 12:00:00,214,161,NA,16,12,48,7
+Noida,"Sector - 125, Noida - UPPCB",20-11-2023 12:00:00,306,293,49,129,154,157,9
+Noida,"Sector - 62, Noida - IMD",20-11-2023 12:00:00,303,246,,107,220,44,
+Noida,"Sector-1, Noida - UPPCB",20-11-2023 12:00:00,284,197,26,104,63,140,13
+Noida,"Sector-116, Noida - UPPCB",20-11-2023 12:00:00,362,335,23,95,15,79,10
+Prayagraj,"Jhunsi, Prayagraj - UPPCB",20-11-2023 12:00:00,170,159,30,38,3,6,15
+Prayagraj,"Motilal Nehru NIT, Prayagraj - UPPCB",20-11-2023 12:00:00,232,123,18,61,12,12,7
+Prayagraj,"Nagar Nigam, Prayagraj - UPPCB",20-11-2023 12:00:00,150,133,47,35,6,14,9
+Varanasi,"Ardhali Bazar, Varanasi - UPPCB",20-11-2023 12:00:00,70,81,17,,23,27,
+Varanasi,"Bhelupur, Varanasi - UPPCB",20-11-2023 12:00:00,55,76,18,69,1,11,2
+Varanasi,"IESD Banaras Hindu University, Varanasi - UPPCB",20-11-2023 12:00:00,35,53,13,41,4,2,2
+Varanasi,"Maldahiya, Varanasi - UPPCB",20-11-2023 12:00:00,68,75,31,67,4,2,1
+Vrindavan,"Omex Eternity, Vrindavan - UPPCB",20-11-2023 12:00:00,116,117,32,81,25,3,2
+Dehradun,"Doon University, Dehradun - UKPCB",20-11-2023 12:00:00,93,78,1,27,1,3,
+Kashipur,"Govt. Girls Inter College, Kashipur - UKPCB",20-11-2023 12:00:00,45,93,8,26,5,38,5
+Rishikesh,"Shivaji Nagar, Rishikesh - UKPCB",20-11-2023 12:00:00,19,41,6,21,8,6,4
+Asansol,"Asansol Court Area, Asansol - WBPCB",20-11-2023 12:00:00,64,82,11,NA,22,40,11
+Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",20-11-2023 12:00:00,48,64,33,35,7,26,5
+Haldia,"Priyambada Housing Estate, Haldia - WBPCB",20-11-2023 12:00:00,48,83,12,36,29,26,4
+Howrah,"Belur Math, Howrah - WBPCB",20-11-2023 12:00:00,64,89,17,15,22,11,2
+Howrah,"Ghusuri, Howrah - WBPCB",20-11-2023 12:00:00,148,113,7,33,6,44,8
+Howrah,"Padmapukur, Howrah - WBPCB",20-11-2023 12:00:00,63,88,12,49,15,36,8
+Kolkata,"Ballygunge, Kolkata - WBPCB",20-11-2023 12:00:00,84,84,6,18,29,54,6
+Kolkata,"Bidhannagar, Kolkata - WBPCB",20-11-2023 12:00:00,48,71,13,22,20,24,7
+Kolkata,"Fort William, Kolkata - WBPCB",20-11-2023 12:00:00,123,93,10,29,23,50,13
+Kolkata,"Jadavpur, Kolkata - WBPCB",20-11-2023 12:00:00,62,85,5,44,16,20,21
+Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",20-11-2023 12:00:00,48,77,12,28,32,24,8
+Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",20-11-2023 12:00:00,64,57,9,33,24,32,8
+Kolkata,"Victoria, Kolkata - WBPCB",20-11-2023 12:00:00,102,170,6,46,18,9,1
+Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",20-11-2023 12:00:00,75,109,11,43,19,41,10
