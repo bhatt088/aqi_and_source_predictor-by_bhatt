@@ -3,6 +3,13 @@ import pandas as pd
 import joblib
 import plotly.graph_objects as go
 import requests
+import os
+
+from dotenv import load_dotenv
+load_dotenv()
+
+WEATHER_API_KEY = os.getenv("WEATHER_API_KEY")
+
 
 # Load trained model
 model = joblib.load("aqi_model.pkl")
@@ -42,56 +49,33 @@ def aqi_gauge(aqi):
 
 # api call
 def fetch_city_data(city):
-    url = "https://api.openaq.org/v2/latest"
+    url = "https://api.weatherapi.com/v1/current.json"
     params = {
-        "city": city,
-        "country": "IN",
-        "limit": 1
+        "key": WEATHER_API_KEY,
+        "q": city,
+        "aqi": "yes"
     }
 
-    response = requests.get(url, params=params)
+    try:
+        response = requests.get(url, params=params, timeout=10)
+        if response.status_code != 200:
+            return None
 
-    if response.status_code != 200:
+        data = response.json()
+        air = data["current"]["air_quality"]
+
+        return {
+            "PM2.5": air.get("pm2_5", 50),
+            "PM10": air.get("pm10", 80),
+            "SO2": air.get("so2", 5),
+            "CO": air.get("co", 300),
+            "OZONE": air.get("o3", 10),
+            "NO2": air.get("no2", 20),
+            "NH3": air.get("nh3", 20)
+        }
+
+    except Exception:
         return None
-
-    data = response.json()
-
-    if len(data["results"]) == 0:
-        return None
-
-    measurements = data["results"][0]["measurements"]
-
-    # Default values
-    pollutants = {
-        "PM2.5": 50,
-        "PM10": 80,
-        "SO2": 5,
-        "CO": 300,
-        "OZONE": 10,
-        "NO2": 20,
-        "NH3": 20
-    }
-
-    for m in measurements:
-        param = m["parameter"]
-        value = m["value"]
-
-        if param == "pm25":
-            pollutants["PM2.5"] = value
-        elif param == "pm10":
-            pollutants["PM10"] = value
-        elif param == "so2":
-            pollutants["SO2"] = value
-        elif param == "co":
-            pollutants["CO"] = value
-        elif param == "o3":
-            pollutants["OZONE"] = value
-        elif param == "no2":
-            pollutants["NO2"] = value
-        elif param == "nh3":
-            pollutants["NH3"] = value
-
-    return pollutants
 
 city = st.selectbox(
     "Select City",
@@ -101,11 +85,11 @@ city = st.selectbox(
 city_pollution = fetch_city_data(city)
 
 if city_pollution is None:
-    st.warning("Live data not available. Using default values.")
-    city_pollution = {
-        "PM2.5": 50, "PM10": 80, "SO2": 5, "CO": 300,
-        "OZONE": 10, "NO2": 20, "NH3": 20
-    }
+        st.warning("Live data not available. Using default values.")
+        city_pollution = {
+            "PM2.5": 50, "PM10": 80, "SO2": 5,
+            "CO": 300, "OZONE": 10, "NO2": 20, "NH3": 20
+        }
 
 
 # ======================
