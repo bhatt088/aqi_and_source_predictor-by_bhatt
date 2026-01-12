@@ -4,3 +4,4 @@ joblib
 plotly
 requests
 scikit-learn
+python-dotenv
